@@ -31,7 +31,7 @@ createPublicSynonym=True
 
 
 # Start of code
-# con = cx_Oracle.connect('LOL_EDW/sppaibo@endwd-scan/endw3dv2')
+# con = cx_Oracle.connect('CONNECT_STRING')
 # print (con.version)
 # con.close()
 xl = pd.ExcelFile(file)
